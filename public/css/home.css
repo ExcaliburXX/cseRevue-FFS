@@ -293,10 +293,26 @@ p {
   width: 100%;
 }
 
-.sponsor .sponsor-body .jumbotron table tr {
-  border: 1px solid blue;
+.sponsor .sponsor-body .jumbotron table td {
+  box-sizing: border-box;
+  text-align: center;
+  /*border: 1px solid blue;*/
   table-layout: fixed;
   width: 100%;
+  padding: 10px 0px;
+}
+
+.sponsor .sponsor-body .jumbotron table .left-images {
+  box-sizing: border-box;
+  text-align: left;
+}
+.sponsor .sponsor-body .jumbotron table .right-images {
+  box-sizing: border-box;
+  text-align: right;
+}
+
+.sponsor .sponsor-body .jumbotron table td img{
+  /*border: 1px dashed red;*/
 }
 
 /* FAQ page code below */

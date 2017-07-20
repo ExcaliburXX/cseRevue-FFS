@@ -302,6 +302,7 @@ p {
   padding: 10px 0px;
 }
 
+/* side images pushed to sides - images become distorted
 .sponsor .sponsor-body .jumbotron table .left-images {
   box-sizing: border-box;
   text-align: left;
@@ -310,10 +311,19 @@ p {
   box-sizing: border-box;
   text-align: right;
 }
+*/
 
-.sponsor .sponsor-body .jumbotron table td img{
-  /*border: 1px dashed red;*/
+/* images are centered */
+.sponsor .sponsor-body .jumbotron table td img {
+  box-sizing: border-box;
+  text-align: center;
 }
+
+/* red border around images - testing
+.sponsor .sponsor-body .jumbotron table td img{
+  border: 1px dashed red;
+}
+*/
 
 /* FAQ page code below */
 

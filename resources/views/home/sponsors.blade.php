@@ -21,25 +21,25 @@
       <br/>
         <table>
           <tr>
-            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
+            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+          </tr>
+          <tr id="mid-row-img">
+            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
           </tr>
           <tr>
-            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
+            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
+            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
           </tr>
           <tr>
-            <td class="left-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-            <td class="right-images"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="140px" height="100px"/></a></td>
-          </tr>
-          <tr>
-            <td colspan="4" id="single-sponsor-row"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="150px" height="100px"/></a></td>
+            <td colspan="4" id="single-sponsor-row"><a href="/home/index" target="_blank"><img src="../img/doge.jpg" width="200px" height="120px"/></a></td>
           </tr>
         </table>
       <br/>
